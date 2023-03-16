@@ -1,0 +1,16 @@
+.klasa {
+    background-color:#fead9f;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.trzeci {
+    font-size: 24px;
+}
+#ajdi-1 {
+    color: #0000ff;
+    font-size:36px;
+}
+#ajdi-2 {
+    background-color: #90ee90;
+    font-size:24px;
+    font-weight: bold;
+}
